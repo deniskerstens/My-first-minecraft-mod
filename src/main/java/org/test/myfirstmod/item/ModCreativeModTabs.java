@@ -9,6 +9,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 import org.test.myfirstmod.Myfirstmod;
+import org.test.myfirstmod.block.ModBlocks;
 
 public class ModCreativeModTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Myfirstmod.MOD_ID);
@@ -17,6 +18,7 @@ public class ModCreativeModTabs {
             .title(Component.translatable("creativetab.random_tab")).displayItems((itemDisplayParameters, output) -> {
                 output.accept(ModItems.NEW_RANDOM_THING.get());
                 output.accept(ModItems.RANDOMTHINGIMADEINASEPRITEFORTHISMOD.get());
+                output.accept(ModBlocks.TEST_BLOCK.get());
             }).build());
 
     public static void register(IEventBus eventBus) {
