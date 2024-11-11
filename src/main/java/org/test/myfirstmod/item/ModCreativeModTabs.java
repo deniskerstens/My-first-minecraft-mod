@@ -22,6 +22,7 @@ public class ModCreativeModTabs {
                 output.accept(ModBlocks.TEST_ORE.get());
                 output.accept(ModItems.METAL_DETECTOR.get());
                 output.accept(ModBlocks.SOUND_BLOCK.get());
+                output.accept(ModItems.TEST_FOOD.get());
             }).build());
 
     public static void register(IEventBus eventBus) {

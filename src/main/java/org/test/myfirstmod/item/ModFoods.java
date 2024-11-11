@@ -6,5 +6,5 @@ import net.minecraft.world.food.FoodProperties;
 
 public class ModFoods {
     public static final FoodProperties TEST_FOOD =
-            new FoodProperties.Builder().nutrition(2).saturationMod(0.2f).build();
+            new FoodProperties.Builder().nutrition(8).saturationMod(1.2f).build();
 }
