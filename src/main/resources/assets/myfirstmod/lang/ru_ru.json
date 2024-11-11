@@ -4,5 +4,6 @@
   "item.myfirstmod.metal_detector": "Датчик метала",
   "creativetab.random_tab": "Рандомная вкладка",
   "block.myfirstmod.test_block": "Тестовый блок",
-  "block.myfirstmod.test_ore": "Тестовая руда"
+  "block.myfirstmod.test_ore": "Тестовая руда",
+  "block.myfirstmod.sound_block": "Звуковой блок"
 }
