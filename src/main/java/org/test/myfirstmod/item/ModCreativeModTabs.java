@@ -19,6 +19,7 @@ public class ModCreativeModTabs {
                 output.accept(ModItems.NEW_RANDOM_THING.get());
                 output.accept(ModItems.RANDOMTHINGIMADEINASEPRITEFORTHISMOD.get());
                 output.accept(ModBlocks.TEST_BLOCK.get());
+                output.accept(ModBlocks.TEST_ORE.get());
             }).build());
 
     public static void register(IEventBus eventBus) {
