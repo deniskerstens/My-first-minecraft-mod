@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "test_item2",
+  "ingredient": {
+    "item": "myfirstmod:randomthingimadeinasepriteforthismod"
+  },
+  "result": "myfirstmod:new_random_thing"
+}

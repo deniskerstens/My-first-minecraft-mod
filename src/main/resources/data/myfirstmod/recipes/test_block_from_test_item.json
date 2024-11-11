@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "myfirstmod:new_random_thing"
+    }
+  },
+  "result": {
+    "item": "myfirstmod:test_block",
+    "count": 1
+  }
+}
