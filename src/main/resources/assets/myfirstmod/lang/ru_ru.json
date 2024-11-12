@@ -7,6 +7,8 @@
 
   "creativetab.random_tab": "Рандомная вкладка",
 
+  "tooltip.myfirstmod.metal_detector": "Нажмите ПКМ что-бы проверить на наличие руд внизу",
+
   "block.myfirstmod.test_block": "Тестовый блок",
   "block.myfirstmod.test_ore": "Тестовая руда",
   "block.myfirstmod.sound_block": "Звуковой блок"

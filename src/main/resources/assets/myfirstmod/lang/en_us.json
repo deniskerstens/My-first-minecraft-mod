@@ -7,6 +7,8 @@
 
   "creativetab.random_tab": "Random tab",
 
+  "tooltip.myfirstmod.metal_detector": "Press RMB to check ores below",
+
   "block.myfirstmod.test_block": "Test block",
   "block.myfirstmod.test_ore": "Test ore",
   "block.myfirstmod.sound_block": "Sound block"
