@@ -3,7 +3,10 @@
   "item.myfirstmod.new_random_thing": "Second random thing i made in aseprite for this mod",
   "item.myfirstmod.metal_detector": "Metal detector",
   "item.myfirstmod.test_food": "Test food",
+  "item.myfirstmod.test_fuel": "Test_fuel",
+
   "creativetab.random_tab": "Random tab",
+
   "block.myfirstmod.test_block": "Test block",
   "block.myfirstmod.test_ore": "Test ore",
   "block.myfirstmod.sound_block": "Sound block"
