@@ -2,8 +2,11 @@
   "item.myfirstmod.randomthingimadeinasepriteforthismod": "Рандомная вещь которую я нарисовал в асепрайте для этого мода",
   "item.myfirstmod.new_random_thing": "Вторая рандомная вещь которую я нарисовал в асепрайте для этого мода",
   "item.myfirstmod.metal_detector": "Датчик метала",
+  "item.myfirstmod.test_fuel": "Тестовое топливо",
   "item.myfirstmod.test_food": "Тестовая еда",
+
   "creativetab.random_tab": "Рандомная вкладка",
+
   "block.myfirstmod.test_block": "Тестовый блок",
   "block.myfirstmod.test_ore": "Тестовая руда",
   "block.myfirstmod.sound_block": "Звуковой блок"
